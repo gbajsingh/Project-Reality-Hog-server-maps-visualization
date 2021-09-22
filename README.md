@@ -1,5 +1,5 @@
-# Project-Reality-Hog-server-maps-visualization
-Visualization of Project-reality's(popular bf2 mod) maps played on Hog server starting from January 2019. Data is exrtracted to google spreadsheets through R.script from href links of battlerecorder webpage. Then data from spreadsheet is further imported to Tableau Public software to visualize 
+# Project-Reality-server-maps-visualization
+Visualization of Project-reality's(bf2 mod) maps played on a popular server. Data is scraped from backend html referncing a battlerecorder webpage and transformed in R languange and loaded to google spreadsheets. Then data from spreadsheet is further imported to Tableau software to visualize. 
 
 Running an auto script through task scheduler to daily refresh/update the data source for the Visualization chart.
 
